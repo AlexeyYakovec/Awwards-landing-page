@@ -4,6 +4,6 @@ export { LearnFromSection } from "./LearnFromSection";
 export { MarketplaceSection } from "./MarketplaceSection";
 export { NomineeSection } from "./NomineeSection";
 export { ShareWorkSection } from "./ShareWorkSection";
-export { HeroSection } from "./HeroSection";
 export { FooterSection } from "./FooterSection";
 export { HeaderSection } from "./HeaderSection";
+export { HeroSection } from "./HeroSection";
